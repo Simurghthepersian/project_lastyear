@@ -1,0 +1,5 @@
+classes = 3
+train = \Users\bardi\OneDrive\Pictures\train/train.txt
+valid = \Users\bardi\OneDrive\Pictures\train/test.txt
+names = \Users\bardi\OneDrive\Pictures\train/classes.names
+backup = backup
